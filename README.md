@@ -1,5 +1,5 @@
 # PackmanImitaion
-パックマン(ナムコ)のようなものを作ってみた
+学部時代にパックマン(ナムコ)のようなものを作った
 
 ## スクリーンショット
 <img src="./screenshot/image.png" width="500">
