@@ -8,5 +8,5 @@
 - `javac packman/*.java`
 - `java packman.Packman`
 
-## 音楽素材
+## 効果音素材
 https://maoudamashii.jokersounds.com/
